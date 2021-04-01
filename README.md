@@ -1,2 +1,2 @@
-# C21
-made in china
+# collisionAlgorithm
+Algorithm to detect collision between two objects
